@@ -16,6 +16,7 @@
     spotify
     spicetify-cli
     localsend
+    bitwarden
 
     # Programming
     vscode-fhs
