@@ -1,3 +1,3 @@
 #!zsh
 
-sudo nixos-rebuild switch --flake ~/NixOS/flake.nix
+sudo nixos-rebuild switch --flake ~/NixOS/
