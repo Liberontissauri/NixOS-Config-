@@ -44,6 +44,5 @@
     nitrogen
     scrot
     polybarFull
-    rofi
   ];
 }
