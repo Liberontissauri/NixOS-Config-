@@ -1,5 +1,5 @@
 
-{ config, pkgs, ... }:
+{ pkgs, ... }:
 
 {
   
@@ -17,6 +17,7 @@
     spicetify-cli
     localsend
     bitwarden
+    brightnessctl
 
     # Programming
     vscode-fhs
