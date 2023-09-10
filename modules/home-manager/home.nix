@@ -45,6 +45,7 @@
     brightnessctl
     gparted
     deluge
+    dolphin
 
     # Programming
     vscode-fhs
