@@ -31,12 +31,14 @@
       #"80:class_g = 'Polybar'"
     ];
     settings = {
+      backend = "glx";
       method = "gaussian";
       corner-radius = 10;
       rounded-corners-exclude = [
         "class_g = 'polybar'"
         "class_g = 'polybar'"
       ];
+      round-borders = 1;
     };
   };
 
