@@ -153,5 +153,5 @@ gaps outer 20 px
 
 gaps top 60 px
 
-exec nitrogen --restore
-exec polybar -c ~/.config/polybar/main.ini -r
+exec --no-startup-id nitrogen --restore &
+exec --no-startup-id polybar -c ~/.config/polybar/main.ini -r &
