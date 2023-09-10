@@ -6,6 +6,7 @@
     ./rofi
     ./polybar
     ./zsh
+    ./gtk-theme
   ];
 
   nixpkgs = {
