@@ -13,6 +13,7 @@
       ./desktop.nix
       ./graphics.nix
       ./fonts.nix
+      ./virtualisation.nix
     ];
 
   nix.settings.experimental-features = [ "nix-command" "flakes" ];
