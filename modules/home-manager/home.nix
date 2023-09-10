@@ -44,6 +44,7 @@
     bitwarden
     brightnessctl
     gparted
+    deluge
 
     # Programming
     vscode-fhs
