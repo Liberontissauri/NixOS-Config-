@@ -4,4 +4,7 @@
   environment.systemPackages = with pkgs; [
     virt-manager
   ];
+  boot.kernelParams = [
+    "intel_iommu=on"
+  ];
 }
