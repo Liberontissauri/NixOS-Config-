@@ -12,5 +12,6 @@
     imagemagick
     killall
     pure-prompt # Zsh Prompt
+    pciutils
   ];
 }
