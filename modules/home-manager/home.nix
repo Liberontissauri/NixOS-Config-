@@ -5,6 +5,7 @@
     ./i3
     ./rofi
     ./polybar
+    ./zsh
   ];
 
   nixpkgs = {
