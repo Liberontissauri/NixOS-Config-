@@ -43,6 +43,7 @@
     localsend
     bitwarden
     brightnessctl
+    gparted
 
     # Programming
     vscode-fhs
