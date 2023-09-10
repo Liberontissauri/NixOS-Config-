@@ -43,6 +43,5 @@
   environment.systemPackages = with pkgs; [
     nitrogen
     scrot
-    polybarFull
   ];
 }
