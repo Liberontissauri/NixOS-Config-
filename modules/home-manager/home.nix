@@ -47,6 +47,9 @@
     gparted
     deluge
     dolphin
+    vitetris
+    teams
+    ungoogled-chromium
 
     # Programming
     vscode-fhs
