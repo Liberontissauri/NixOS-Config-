@@ -50,6 +50,7 @@
     vitetris
     teams
     ungoogled-chromium
+    libsForQt5.okular
 
     # Programming
     vscode-fhs
