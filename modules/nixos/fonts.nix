@@ -9,5 +9,6 @@
     meslo-lgs-nf
     font-awesome
     aileron
+    nerdfonts
   ];
 }
