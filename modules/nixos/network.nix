@@ -3,7 +3,8 @@
   networking.networkmanager.enable = true;
   programs.nm-applet.enable = true;
   networking.enableIPv6 = false;
-  networking.firewall.allowedTCPPorts = [ 22 ];
+  networking.firewall.allowedTCPPorts = [ 22 53317 ];
+  networking.firewall.allowedUDPPorts = [ 53317 ];
 
   # VPN config
   services.tailscale.enable = true;
